@@ -2,6 +2,9 @@
 
 import requests
 
+# minimum allowed sec between requests to stay under rate limits
+REQ_SPACING_S = 0.3
+
 
 class AlpacaClient:
     def __init__(self,
