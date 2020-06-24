@@ -1,8 +1,8 @@
 #+TITLE: Trading Clients
 
-Collection of simple wrappers to REST APIs of financial brokerages/data providers. These modules are meant
-to be simple wrappers for communicating with each service's API, manipulating and decoding JSON directly
-to and from associated Python objects.
+Collection of wrappers to REST APIs of financial brokerages/data providers. These modules are meant
+to be simple wrappers for communicating with each service's API, manipulating and decoding JSON
+directly to and from associated Python objects.
 
 *These modules do not implement all available REST endpoints for each provider.*
 
